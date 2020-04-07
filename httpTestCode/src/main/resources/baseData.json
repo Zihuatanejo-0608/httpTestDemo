@@ -1,0 +1,16 @@
+{
+  "urlHead" : "http://101.91.18.202:9999/",
+  "headerName" : "Authorization",
+  "ckm" : "chukaimin-it@qq.com.cn",
+  "ckmPwd" : "chukaimin@12345",
+  "thy" : "tianhaoyu-dsj@qq.com.cn",
+  "thyPwd" : "thy@12345",
+  "A" : "test-leader-aipaas@qq.com.cn",
+  "APwd" : "leader@12345",
+  "B" : "test-leader-bipaas@qq.com.cn",
+  "BPwd" : "leader@12345",
+  "user" : "test-user-aipaas@qq.com.cn",
+  "userPwd" : "user@12345",
+  "admin" : "test-admin@qq.com.cn",
+  "adminPwd" : "admin@12345"
+}

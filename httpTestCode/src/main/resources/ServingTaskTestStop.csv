@@ -1,0 +1,5 @@
+detailId,message
+123456789,任务不存在
+,参数有误
+running,停止成功
+stop,任务非运行状态无法停止
